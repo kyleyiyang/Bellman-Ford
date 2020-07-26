@@ -1,4 +1,4 @@
-BELLMAN-FORD.G;w; s/
+BELLMAN-FORD(G,w,s)
 1 INITIALIZE-SINGLE-SOURCE.G; s/
 2 for i D 1 to jG:Vj  1
 3 for each edge .u; / 2 G:E
